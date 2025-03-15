@@ -25,9 +25,10 @@ Tech Stack:
 - next/image optimization
 
 The application allows users to:
-• Create todos with titles, descriptions, and images
-• Mark todos as complete/incomplete
-• View detailed todo information
-• Upload and manage images
-• Navigate between todos
-• Responsive layout for all devices
+
+- Create todos with titles, descriptions, and images
+- Mark todos as complete/incomplete
+- View detailed todo information
+- Upload and manage images
+- Navigate between todos
+- Responsive layout for all devices
