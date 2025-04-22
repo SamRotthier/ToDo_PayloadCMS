@@ -32,3 +32,14 @@ The application allows users to:
 - Upload and manage images
 - Navigate between todos
 - Responsive layout for all devices
+
+
+
+
+Admin@mail.com
+Admin
+
+npm run start
+
+``{image && <div style={{backgroundImage: `url(${image})`}} className="chess-piece"></div>}
+image && => if there is an image, the div can exist
